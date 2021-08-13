@@ -1,7 +1,7 @@
 # Optimization-for-ML
 
 These NoteBooks are for ML Optimization using many techniques
-such as 
+such as: **\n**
 1- Gradient Descent
 2- Mini Batch Gradient Descent
 3- Stochastic Gradient Descent
